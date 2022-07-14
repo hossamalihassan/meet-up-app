@@ -1,0 +1,13 @@
+.heading {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-top: 7rem;
+}
+
+.warning {
+    text-align: center;
+    color: rgb(255, 74, 74);
+    font-size: 1.2rem;
+}
